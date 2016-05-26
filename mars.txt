@@ -1,3 +1,4 @@
 THis is more lines added to see how git knows about text change in a file
 ld and dry, but every thing is my favorit color
 Add text to test: Mars is my favorit planettttt
+test another author 

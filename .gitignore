@@ -1,3 +1,4 @@
 *.dat
 *.out
-results/plots
+results/
+!results/data
